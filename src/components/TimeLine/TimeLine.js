@@ -67,11 +67,11 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        As a highly motivated and detail-oriented individual, you excel at
+        I'm a fullstack developer based in Lagos, Nigeria. A highly motivated and detail-oriented individual, I excel at
         solving complex problems with innovative solutions. With a passion for
-        technology and a proven track record in web development, your skills in
-        programming, design, and project management make you an asset to any
-        team. Outside of work, you enjoy playing games and cooking.
+        technology and a proven track record in web development, my skills in
+        programming, design, and project management make me an asset to any
+        team. Outside of work, I enjoy playing video games.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
