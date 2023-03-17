@@ -16,7 +16,7 @@ import {
   SectionDivider,
   SectionText,
   SectionTitle,
-} from "../../styles/GlobalComponents"
+} from "../GlobalComponents"
 import { TimeLineData } from "../../constants/constants"
 
 const TOTAL_CAROUSEL_COUNT = TimeLineData.length
