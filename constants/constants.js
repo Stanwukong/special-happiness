@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Headless Commerce',
     description: "Contains a complete ecommmerce stack ",
-    image: 'https://ibb.co/RB3CyCw',
+    image: 'https://i.ibb.co/X37z8zR/Screenshot-2023-03-18-155402.jpg',
     tags: ['React', 'Next', 'Firebase', 'Node'],
     source: 'https://github.com/Stanwukong/headlesscommerce',
     visit: 'https://headlesscommerce-liart.vercel.app/',
@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Events App',
     description: "Using Next.js to build an event app/website.",
-    image: 'blob:https://vercel.com/d826a72e-c991-4392-b351-c169e601e699',
+    image: 'https://i.ibb.co/87p9N3g/events.jpg',
     tags: ['React', 'Next', 'Firebase'],
     source: 'https://github.com/Stanwukong/next-events-app',
     visit: 'https://next-events-app-jet.vercel.app/',
