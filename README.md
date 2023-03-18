@@ -1,4 +1,4 @@
 ## Personal Portfolio
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+![Portfolio Website](https://ibb.co/yFx6nz9)
 # special-happiness
